@@ -22,6 +22,9 @@ On iOS, users are asked for permission before tracking is enabled, in accordance
 ## Data Collection by the App
 This app does **not** collect personally identifiable information directly from users.
 
+Any data collected is handled by third-party services such as Google AdMob in accordance with their own privacy policies.
+
+
 ## Third-Party Services
 This app uses the following third-party service:
 - **Google AdMob**
