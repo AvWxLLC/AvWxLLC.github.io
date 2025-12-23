@@ -24,10 +24,24 @@ This app does **not** collect personally identifiable information directly from 
 
 Any data collected is handled by third-party services such as Google AdMob in accordance with their own privacy policies.
 
+## Analytics & Usage Data
+We use Firebase Analytics, a service provided by Google LLC, to help us understand how our app is used and to improve app performance and reliability.
+Firebase Analytics may collect anonymous usage information, including:
+- App interactions (such as screens viewed and features used)
+- App launch and session data
+- Device information (such as device model, operating system version, and a non-personal device identifier)
+This data is used solely for analytics and app functionality purposes. We do not use this data for advertising, marketing, or user tracking, and the data is not linked to your identity.
+
+## Data Sharing
+Analytics data collected through Firebase is processed by Google on our behalf and is subject to Google’s Privacy Policy. We do not sell, rent, or share this data with third parties for advertising purposes.
+
+## Opt-Out Information
+You can limit analytics collection by disabling analytics permissions in your device settings or by uninstalling the app.
 
 ## Third-Party Services
 This app uses the following third-party service:
 - **Google AdMob**
+- **Google Firebase**
 
 Google’s use of data is governed by their Privacy Policy:
 https://policies.google.com/privacy
